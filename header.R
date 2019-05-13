@@ -6,7 +6,7 @@
 # Data Source Info: 
 # Program Derived From "other_program_name.R" (if applicable)
 # Program Flow Description (high level review of the steps of the program) ; ----
-#  1) Define key parameters
+#  1) Load libraries and define key parameters
 #  X) Clean up. 
 
 # Leave mark at beginning of program log see when the run started (if needed)
@@ -14,7 +14,7 @@
 #paste("Run started at", Sys.time())
 #print("###############################################")
 
-# 1) Define key constants, formats, etc. ; ----
+# 1) Load libraries and define key constants, formats, etc. ; ----
 #### PROJECT CODE GOES HERE ####
 
 # X) Clean up. ----
